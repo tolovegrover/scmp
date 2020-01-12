@@ -67,12 +67,13 @@ p{
     vertical-align: top;
     margin-bottom: 50px;
     transition: all .7s;
+    text-allign: justify;
 }
 .collumn + .collumn {
   border-left: 1px solid #2f2f2f;
 }
 .collumn .headline{
-    text-align: center;
+    text-align: left;
     line-height: normal;
     font-family: 'Playfair Display', serif;
     display: block;
